@@ -48,7 +48,7 @@
                         className:
                           "text-justify leading-8 font-sans text-lg text-gray-600",
                         children:
-                          "Manav Rachna International Institute of Research and Studies (MRIIRS), formerly MRIU, a Deemed-to-be-University under section 3 of the UGC Act, 1956, and a NAAC accredited ‘A++’ Grade Institution, is a continuum of excellence from the Career Institute of Technology and Management (CITM). MRIIRS has been awarded a 5-Star QS rating for Teaching, Facilities & Social Responsibility. MRIIRS is ranked among top institutions by the Ministry of Education’s NIRF Ranking 2022. It strives for high-quality education in the fields of Engineering & Technology, Health & Applied Sciences, Management, Computer Applications, Hotel Management, Commerce, Humanities, Media, Architecture, Design, Liberal Arts, Economics, Applied Psychology and many more. MRIIRS is a Founder Member of the prestigious “College Board’s Indian Global Higher Education Alliance”.",
+                          "Dr. Akhilesh Das Gupta Institute of Technology & Management, formerly known as Northern India Engineering College (NIEC), New Delhi was established by BBDES, LUCKNOW in the year 2003. ADGITM has an aesthetically designed campus spread over approximately 8.08 acres of lush green environment at Shastri Park. The Campus comprises of five interconnected blocks covering a built up area of approx. 23,636.67 square meters. ADGITM offers following Under Graduate and Post Graduate level full time Professional programs approved by AICTE and BCI in affiliation with Guru Gobind Singh Indraprastha University (GGSIPU), Delhi."
                       }),
                     }),
                   }),
@@ -72,7 +72,7 @@
                   "text-[#de0650] my-3 text-2xl mt-14 font-bold font-playFair",
                 "data-aos": "fade-right",
                 children:
-                  "Department of Computer Science and Engineering (CSE)",
+                  "Department of Artificial Intelligence and Machine Learning  (AI & ML)",
               }),
               (0, i.jsxs)("div", {
                 className:
@@ -86,7 +86,7 @@
                         className:
                           "text-justify leading-8 font-sans text-lg text-gray-600",
                         children:
-                          "The Department of Computer Science & Engineering (CSE) was established in 1997 with a focus on imparting the fundamental concepts both theoretically and practically. Keeping in view the growth in industry and increasing demand for computer professionals, the department also offers some industry associated courses. To meet the needs of industry and R&D organizations, the course curriculum has been carefully customised to meet the rising global outlook and focuses on forthcoming innovations in the field of Computer Science and Engineering. Computer Science and Engineering (CSE) is a highly sought-after course because it acts as a catalyst and allows one to keep up with the digital era. The platforms are incredibly diversified, with a huge range of job opportunities. This course is offered to students at the undergraduate as well as the postgraduate levels and students obtain the B.Tech and M.Tech degrees, respectively.The B.Tech (CSE) programme offered by the Department has been accredited thrice by the National Board of Accreditation (NBA) in 2003, 2007, 2018 and 2023.",
+                          "The Department of Artificial Intelligence and Machine Learning is established in the year 2021, offers an undergraduate programme B. Tech. under the affiliation of GGSIPU, New Delhi ADGITM, thrives to impart an effective technical education by means of experiential learning and develop concrete infrastructure with efficient faculty and dynamic student community. AI & ML insists on implementing Outcome Based Education (OBE) throughout the tenure of under graduation by means of getting university ranks, higher placement records. To emphasize on lifelong learning and applying knowledge on solving real work problems, department conduct various technical events like hackathons, coding competitions, training programs, workshops and seminars.",
                       }),
                     }),
                   }),
@@ -110,9 +110,7 @@
                   "text-[#de0650] my-3 text-2xl mt-14 font-bold font-playFair",
                 "data-aos": "fade-right",
                 children: [
-                  "ICAICCIT - 2023 (International Conference on Advances in Computation,",
-                  (0, i.jsx)("br", {}),
-                  " Communication and Information Technology)",
+                  "ADGITM - 2023"
                 ],
               }),
               (0, i.jsxs)("div", {
@@ -127,9 +125,8 @@
                         className:
                           "text-justify leading-8 font-sans text-lg text-gray-600",
                         children: [
-                          "The main objective of ",
-                          (0, i.jsx)("b", { children: "ICAICCIT-2023" }),
-                          " is to invite all the Academicians, Researchers, and industrialists worldwide to participate and discuss the latest achievements in the advanced field of computing like Advancement in the Artificial Intelligence, Blockchain, Cyber Security, Distributed Computing and Internet of Things. The main goal of the conference is to provide a forum for high-quality reports on the state-of-the-art Theory, Technology, and Applications of advanced fields of computing as used in measurement, automation, and scientific research, in industry and business. The initiative provides a focused and highly interactive forum where both researchers and technologists have the opportunity to present and discuss leading research topics, developments, and future directions in their areas of interest. The importance of the conference is its vision to establish scientific contacts between research teams and scientists from different countries for future joint research collaborations.",
+                         " The overarching objective of this conference is to facilitate cross-disciplinary dialogue and knowledge exchange, fostering innovation and progress in their respective domains. The Robotics Conference aims to explore the latest advancements in automation and human-robot interaction, while the Healthcare Conference focuses on integrating technology to enhance patient care. The Forensics Conference seeks to advance forensic science and investigative techniques. The AI Multidisciplinary Conference delves into the diverse applications of artificial intelligence across various industries, and the Cognitive Conference aims to understand and replicate human thought processes. Lastly, the Sustainable Development Conference strives to promote eco-conscious practices and policies, driving a greener and more sustainable future. Together, this forms a dynamic platform for experts to collaborate and push the boundaries of knowledge in their respective fields."
+
                         ],
                       }),
                     }),
