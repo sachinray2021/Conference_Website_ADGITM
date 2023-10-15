@@ -381,7 +381,7 @@ sup {
     --tw-ring-inset: ;
     --tw-ring-offset-width: 0px;
     --tw-ring-offset-color: #fff;
-    --tw-ring-color: rgba(59, 130, 246, .5);
+    --tw-ring-color: rgba(7, 81, 199, 0.5);
     --tw-ring-offset-shadow: 0 0 #0000;
     --tw-ring-shadow: 0 0 #0000;
     --tw-shadow: 0 0 #0000;
@@ -908,7 +908,7 @@ sup {
 
 .text-\[\#3FBA96\] {
     --tw-text-opacity: 1;
-    color: rgb(63 186 150/var(--tw-text-opacity))
+    color: orangered;
 }
 
 .text-\[\#de0650\] {
@@ -928,7 +928,7 @@ sup {
 
 .text-gray-600 {
     --tw-text-opacity: 1;
-    color: rgb(75 85 99/var(--tw-text-opacity))
+    color: rgb(10, 10, 35);
 }
 
 .text-white {
