@@ -49,7 +49,7 @@
                           children: (0, l.jsx)("th", {
                             className: "text-2xl text-gray-600 font-playFair",
                             children:
-                              "Theme : Artificial Intelligence, Machine Learning & Data Science",
+                              "Theme : Robotics",
                           }),
                         }),
                         (0, l.jsx)("tr", {
@@ -71,91 +71,37 @@
                               "list-disc pl-5 text-gray-600 marker:text-sky-400",
                             children: [
                               (0, l.jsx)("li", {
-                                children: "Case-Based REASSSS and Learning",
+                                children: "Human-Robot Collaboration",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Classification and Clustering",
+                                children: "Robotic Perception and Sensing",
                               }),
-                              (0, l.jsx)("li", { children: "Deep Learning" }),
+                              (0, l.jsx)("li", { children: "Autonomous Navigation" }),
                               (0, l.jsx)("li", {
-                                children: "Inductive Learning",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "Inference Rule Learning",
+                                children: "Soft Robotics",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Learning and Adaptive control",
+                                children: "Robotic Swarm Intelligence",
                               }),
                               (0, l.jsx)("li", {
-                                children:
-                                  "Real Time Event Learning and Detection",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "Natural Language Processing",
+                                children: "Robotic Ethics and Morality",
                               }),
                               (0, l.jsx)("li", {
                                 children:
-                                  "Similarity Measures and Learning of Similarity",
+                                  "Robots in Healthcare",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Agricultural Robotics",
                               }),
                               (0, l.jsx)("li", {
                                 children:
-                                  "Statistical and Evolutionary Learning Soft Computing",
+                                  "Robotics in Space Exploration",
                               }),
                               (0, l.jsx)("li", {
                                 children:
-                                  "Image Processing and Computer Vision",
+                                  "Robot Learning and Adaptation",
                               }),
-                              (0, l.jsx)("li", {
-                                children: "Internet of Things",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Virtual Reality and Augmented Reality",
-                              }),
-                              (0, l.jsx)("li", { children: "Robotics" }),
-                              (0, l.jsx)("li", {
-                                children: "Annotation of Media content",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "Data Handling and Pre-processing",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "Pattern Recognitions",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Feature Engineering and Feature Selection",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Computational Biology & Bioinformatics",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Data Modeling & Semantic Engineering",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "High Performance Scientific/Engineering/ Commercial Applications",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Infoscience & Computational Informatics",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "Information Network Analytics",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Data Science Techniques for Handling",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "Epidemic and Pandemic Situations",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Time Series and Sequential Pattern Mining",
-                              }),
+                              
                             ],
                           }),
                         }),
@@ -178,7 +124,7 @@
                         (0, l.jsx)("tr", {
                           children: (0, l.jsx)("th", {
                             className: "text-2xl text-gray-600 font-playFair",
-                            children: "Theme : Information Technology",
+                            children: "Theme : Healthcare",
                           }),
                         }),
                         (0, l.jsx)("tr", {
@@ -200,108 +146,38 @@
                               "list-disc marker:text-sky-400 pl-5 text-gray-600",
                             children: [
                               (0, l.jsx)("li", {
-                                children: "Cloud Management and Operations",
+                                children: "Healthcare Digital Transformation",
                               }),
-                              (0, l.jsx)("li", { children: "Cloud Security" }),
+                              (0, l.jsx)("li", { children: "Telehealth and Remote Patient Monitoring" }),
                               (0, l.jsx)("li", {
                                 children:
-                                  "Cloud Computing in Business Intelligence",
+                                  "Healthcare Data Security and Privacy",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Cloud Performance",
+                                children: "Value-Based Care Models",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Scalability and Reliability",
+                                children: "Patient Engagement and Experience",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Data Analytics in Cloud",
+                                children: "Healthcare Artificial Intelligence Applications",
                               }),
                               (0, l.jsx)("li", {
                                 children:
-                                  "Cloud Development and its Applications",
+                                  "Precision Medicine and Genomic Health",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Bit coin and Cryptocurrency",
+                                children: "Healthcare Sustainability and Green Practices",
                               }),
                               (0, l.jsxs)("li", {
                                 children: [
-                                  "Transaction and Security Awareness Ethereum and ",
-                                  (0, l.jsx)("br", {}),
-                                  " Smart contract development",
-                                ],
+                                  "Health Equity and Access to Care",
+                                ]
                               }),
                               (0, l.jsx)("li", {
-                                children: "Public vs Private Blockchain",
+                                children: "Mental Health and Well-being Initiatives",
                               }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Current Blockchain Application and Platforms",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Identity and Authorization Systems Building Decentralized Autonomous Solutions",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Building Communication Network on Blockchain",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "Bit Coin and Cryptocurrency",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "Access and Identity Management",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Integrity Issues and Ethical Hacking",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "Emerging Threats.",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "Cyber Crime and its Solutions",
-                              }),
-                              (0, l.jsx)("li", { children: "Data Privacy" }),
-                              (0, l.jsx)("li", { children: "IOT" }),
-                              (0, l.jsx)("li", {
-                                children: "Smart cloud and IoT",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "ISmart homes and cities",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Adaptive user interfaces for smart applications",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Interconnection of smart devices (things)",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "Dynamic urban communications",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "SMART healthcare and assisted living",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "SMART transportation and vehicles",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "SMART phones applications and services",
-                              }),
-                              (0, l.jsx)("li", { children: "3D Printing" }),
-                              (0, l.jsx)("li", {
-                                children: "New Energy Solutions",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "Robotic Process Automation (RPA)",
-                              }),
-                              (0, l.jsx)("li", { children: "Edge Computing" }),
-                              (0, l.jsx)("li", {
-                                children: "Quantum Computing",
-                              }),
+                              
                             ],
                           }),
                         }),
@@ -332,7 +208,7 @@
                           children: (0, l.jsx)("th", {
                             className: "text-2xl text-gray-600 font-playFair",
                             children:
-                              "Theme : Big Data Analytics & Visualization",
+                              "Theme : Forensic",
                           }),
                         }),
                         (0, l.jsx)("tr", {
@@ -355,26 +231,35 @@
                             children: [
                               (0, l.jsx)("li", {
                                 children:
-                                  "Big Data Analytics, and Applications",
+                                  "Forensic DNA Analysis",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Big Data Search and Mining",
+                                children: "Digital Forensics",
                               }),
                               (0, l.jsx)("li", {
                                 children:
-                                  "Visualization Analytics for Big Data",
+                                  "Crime Scene Investigation",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Data Acquisition, Integration,",
+                                children: "Forensic Pathology",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Cleaning, and Best Practices",
+                                children: "Forensic Entomology",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Scalability and Efficiency",
+                                children: "Firearm and Toolmark Analysis",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Critical Infrastructure Security",
+                                children: "Forensic Anthropology",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Forensic Odontology",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Forensic Psychology",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Forensic Accounting",
                               }),
                             ],
                           }),
@@ -398,7 +283,7 @@
                         (0, l.jsx)("tr", {
                           children: (0, l.jsx)("th", {
                             className: "text-2xl text-gray-600 font-playFair",
-                            children: "Theme : Communication",
+                            children: "Theme : AI Multidisciplinary",
                           }),
                         }),
                         (0, l.jsx)("tr", {
@@ -421,40 +306,200 @@
                             children: [
                               (0, l.jsx)("li", {
                                 children:
-                                  "Traffic management in Networks & QoS",
+                                  "AI in Healthcare and Medical Diagnosis",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Wireless and mobility",
+                                children: "Ethical and Responsible AI",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Overlay networks and virtualization",
+                                children: "AI for Environmental Sustainability",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Recent Network security trends",
+                                children: "AI in Financial Services and Fintech",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Switching and routing advances",
-                              }),
-                              (0, l.jsx)("li", {
-                                children:
-                                  "Proposals for future Internet structure",
-                              }),
-                              (0, l.jsx)("li", {
-                                children: "Software-defined networking",
+                                children: "AI in Education and EdTech",
                               }),
                               (0, l.jsx)("li", {
                                 children:
-                                  "Information-centric networking, Sensor networks, Online social networks Blockchain 5G systems",
+                                  "AI and Robotics Integration",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Vehicular networks,",
+                                children: "AI for Social Good and Humanitarian Efforts",
                               }),
                               (0, l.jsx)("li", {
                                 children:
-                                  "Disruption- and delay-tolerant networks,",
+                                  "AI in Agriculture and Food Security",
                               }),
                               (0, l.jsx)("li", {
-                                children: "Mobile ad hoc networking",
+                                children: "AI in Art and Creativity",
+                              }),
+                              (0, l.jsx)("li", {
+                                children:
+                                  "AI and Legal and Regulatory Implications",
+                              }),
+                            ],
+                          }),
+                        }),
+                      }),
+                    }),
+                  ],
+                }),
+              ],
+            }),
+
+
+
+            (0, l.jsxs)("div", {
+              className: "mt-14 justify-center mx-6 flex text-gray-600",
+              "data-aos": "fade-right",
+              children: [
+                (0, l.jsxs)("table", {
+                  className: "md:mx-6 mx-10",
+                  width: "700px",
+                  children: [
+                    (0, l.jsxs)("thead", {
+                      children: [
+                        (0, l.jsx)("tr", {
+                          children: (0, l.jsx)("th", {
+                            className:
+                              "text-3xl justify-start text-[#de0650] font-playFair",
+                            children: "Track 5",
+                          }),
+                        }),
+                        (0, l.jsx)("tr", {
+                          children: (0, l.jsx)("th", {
+                            className: "text-2xl text-gray-600 font-playFair",
+                            children:
+                              "Theme : Cognitive",
+                          }),
+                        }),
+                        (0, l.jsx)("tr", {
+                          className: "text-2xl",
+                          children: (0, l.jsx)("th", {
+                            className: "text-gray-600 font-playFair",
+                            children: "Topics",
+                          }),
+                        }),
+                      ],
+                    }),
+                    (0, l.jsx)("tbody", {
+                      children: (0, l.jsx)("tr", {
+                        className: "justify-start text-lg",
+                        children: (0, l.jsx)("td", {
+                          children: (0, l.jsxs)("ul", {
+                            role: "list",
+                            className:
+                              "list-disc pl-5 text-gray-600 marker:text-sky-400",
+                            children: [
+                              (0, l.jsx)("li", {
+                                children:
+                                  "Cognitive Computing and Artificial Intelligence",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Cognitive Psychology and Human-Computer Interaction",
+                              }),
+                              (0, l.jsx)("li", {
+                                children:
+                                  "Cognitive Neuroscience and Brain-Computer Interfaces",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Cognitive Robotics and Embodied Cognition",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Cognitive Learning and Education Technology",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Cognitive Linguistics and Natural Language Processing",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Cognitive Models of Decision Making and Problem Solving",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Cognitive Rehabilitation and Assistive Technology",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Cognitive Computing in Healthcare and Medicine",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Cognitive Computing and Ethical Considerations",
+                              }),
+                            ],
+                          }),
+                        }),
+                      }),
+                    }),
+                  ],
+                }),
+                (0, l.jsxs)("table", {
+                  className: "md:mx-6 mx-10",
+                  width: "700px",
+                  children: [
+                    (0, l.jsxs)("thead", {
+                      children: [
+                        (0, l.jsx)("tr", {
+                          children: (0, l.jsx)("th", {
+                            className: "text-3xl text-[#de0650] font-playFair",
+                            children: "Track 6 ",
+                          }),
+                        }),
+                        (0, l.jsx)("tr", {
+                          children: (0, l.jsx)("th", {
+                            className: "text-2xl text-gray-600 font-playFair",
+                            children: "Theme : Sustainable Development",
+                          }),
+                        }),
+                        (0, l.jsx)("tr", {
+                          className: "text-2xl",
+                          children: (0, l.jsx)("th", {
+                            className: "text-gray-600 font-playFair",
+                            children: "Topics",
+                          }),
+                        }),
+                      ],
+                    }),
+                    (0, l.jsx)("tbody", {
+                      children: (0, l.jsx)("tr", {
+                        className: "justify-start text-lg",
+                        children: (0, l.jsx)("td", {
+                          children: (0, l.jsxs)("ul", {
+                            role: "list",
+                            className:
+                              "list-disc pl-5 text-gray-600 marker:text-sky-400",
+                            children: [
+                              (0, l.jsx)("li", {
+                                children:
+                                  "Sustainable Energy and Renewable Resources",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Sustainable Agriculture and Food Security",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Sustainable Urban Planning and Smart Cities",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Sustainable Water Management and Conservation",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Biodiversity and Ecosystem Preservation",
+                              }),
+                              (0, l.jsx)("li", {
+                                children:
+                                  "Sustainable Transportation and Mobility",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Climate Change Mitigation and Adaptation",
+                              }),
+                              (0, l.jsx)("li", {
+                                children:
+                                  "Circular Economy and Waste Reduction",
+                              }),
+                              (0, l.jsx)("li", {
+                                children: "Sustainable Education and Awareness",
+                              }),
+                              (0, l.jsx)("li", {
+                                children:
+                                  "Social Equity and Inclusive Sustainable Development",
                               }),
                             ],
                           }),
@@ -469,6 +514,8 @@
         });
     },
   },
+
+  
   function (i) {
     i.O(0, [774, 888, 179], function () {
       return i((i.s = 6443));

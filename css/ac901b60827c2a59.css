@@ -307,7 +307,7 @@ button {
 span,
 sup {
     --tw-text-opacity: 1;
-    color: rgb(63 186 150/var(--tw-text-opacity))
+    color: orangered;
 }
 
 *,
@@ -928,7 +928,7 @@ sup {
 
 .text-gray-600 {
     --tw-text-opacity: 1;
-    color: rgb(10, 10, 35);
+    color: rgb(44, 44, 140);
 }
 
 .text-white {
@@ -1017,7 +1017,7 @@ th {
 .group:hover .group-hover\:text-cyan-600,
 .hover\:text-cyan-600:hover {
     --tw-text-opacity: 1;
-    color: rgb(8 145 178/var(--tw-text-opacity))
+    color: rgb(49, 49, 150);
 }
 
 @media (min-width:640px) {

@@ -307,7 +307,7 @@ button {
 span,
 sup {
     --tw-text-opacity: 1;
-    color: rgb(63 186 150/var(--tw-text-opacity))
+    color: orangered;
 }
 
 *,
@@ -928,7 +928,7 @@ sup {
 
 .text-gray-600 {
     --tw-text-opacity: 1;
-    color: rgb(75 85 99/var(--tw-text-opacity))
+    color: rgb(44, 44, 140);
 }
 
 .text-white {
